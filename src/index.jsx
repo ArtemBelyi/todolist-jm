@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-import './index.css';
+import './style.css';
 import Footer from './components/Footer/Footer';
 import TaskList from './components/TaskList/TaskList';
 import NewTaskForm from './components/NewTaskForm/NewTaskForm';
